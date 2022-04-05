@@ -1,4 +1,3 @@
-setwd("C:/Users/nhlr/OneDrive - Chevron/Documents/")
 #install.packages("readxl") # CRAN version
 library("xlsx")
 
