@@ -1,6 +1,5 @@
 # Reference: http://www.rdatamining.com/examples/time-series-forecasting
 
-setwd("C:/Users/nhlr/OneDrive - Chevron/Documents/CurrKZT")
 #install.packages("readxl") # CRAN version
 library("xlsx")
 
